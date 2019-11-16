@@ -4,5 +4,10 @@ This repository contains the material we prepared for a short hands-on course fo
 | **S.No.**| **File name** | **Description** |
 | :-------------: | ------------- | ------------- |
 |1| [GitandGithub_short_course.pdf](https://github.com/neerajkumarvaid/Git_and_GitHub_Introduction/blob/master/GitandGithub_short_course.pdf)  | Slides used in the course.|
-|1| [git-cheat-sheet-education.pdf](https://github.com/neerajkumarvaid/Git_and_GitHub_Introduction/blob/master/git-cheat-sheet-education.pdf)  | Cheatsheet of Git commands.|
+|2| [git-cheat-sheet-education.pdf](https://github.com/neerajkumarvaid/Git_and_GitHub_Introduction/blob/master/git-cheat-sheet-education.pdf)  | Cheatsheet of Git commands.|
+
+Other resources to practice and learn Git version control are-
+
+1. https://try.github.io/
+2. https://git-scm.com/book/en/v1/Getting-Started-Git-Basics - An online book.
 
